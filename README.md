@@ -1,2 +1,2 @@
 # MyPaper
- This is the repo for the paper that I have read.
+ This is the repo for the papers that I have read.
