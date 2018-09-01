@@ -1,0 +1,35 @@
+%0 Electronic Article
+%T Evaluating the Readability of Force Directed Graph Layouts: A Deep Learning Approach
+%A Haleem, Hammad 
+%A Wang, Yong 
+%A Puri, Abishek 
+%A Wadhwa, Sahil 
+%A Qu, Huamin
+%B ArXiv e-prints
+%V 1808
+%D 2018
+%8 August 1, 2018
+%K Computer Science - Computer Vision and Pattern Recognition;  Computer Science - Graphics;  Computer Science - Human-Computer Interaction
+%U http://adsabs.harvard.edu/abs/2018arXiv180800703H
+%Z A version of this work is under review
+%X Existing graph layout algorithms are usually not able to optimize all 
+the aesthetic properties desired in a graph layout. To evaluate how well 
+the desired visual features are reflected in a graph layout, many 
+readability metrics have been proposed in the past decades. However, the 
+calculation of these readability metrics often requires access to the 
+node and edge coordinates and is usually computationally inefficient, 
+especially for dense graphs. Importantly, when the node and edge 
+coordinates are not accessible, it becomes impossible to evaluate the 
+graph layouts quantitatively. In this paper, we present a novel deep 
+learning-based approach to evaluate the readability of graph layouts by 
+directly using graph images. A convolutional neural network architecture 
+is proposed and trained on a benchmark dataset of graph images, which is 
+composed of synthetically-generated graphs and graphs created by 
+sampling from real large networks. Multiple representative readability 
+metrics (including edge crossing, node spread, and group overlap) are 
+considered in the proposed approach. We quantitatively compare our 
+approach to traditional methods and qualitatively evaluate our approach 
+using a case study and visualizing convolutional layers. This work is a 
+first step towards using deep learning based methods to evaluate images 
+from the visualization field quantitatively.
+%= eprint: arXiv:1808.00703
