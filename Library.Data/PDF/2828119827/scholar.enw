@@ -1,0 +1,14 @@
+  %0 Journal Article
+%T Image-Based Streamline Generation and Rendering
+%V 13
+%@ 1077-2626
+%U https://doi.org/10.1109/TVCG.2007.1009
+%R 10.1109/TVCG.2007.1009
+%N 3
+%J IEEE Transactions on Visualization and Computer Graphics
+%I IEEE Educational Activities Department
+%A Liya Li
+%A Han-Wei Shen
+%D 2007
+%P 630–640
+%K depth peeling, stylized rendering., Three-dimensional flow visualization, streamline seeding, streamlines, level of detail
